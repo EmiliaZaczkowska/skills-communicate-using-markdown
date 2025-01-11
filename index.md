@@ -19,3 +19,6 @@ pozdrowienia("Marcin","Gastol")
 pozdrowienia("Adam","Malysz")
 pozdrowienia("Kamil","Stoch")
 ```
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
